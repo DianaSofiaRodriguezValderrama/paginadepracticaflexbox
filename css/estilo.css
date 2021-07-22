@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
+.cajaroja{
+    background-color: red;
+    color: white;
+}
+.cajanaranja{
+    background-color: orange;
+    color: white;
+}
+.cajaamarillo{
+    background-color: yellow;
+    color: white;
+}
+.cajaverde{
+    background-color: greenyellow;
+    color: white;
+}
+.cajaazulclaro{
+    background-color:cornflowerblue;
+    color: white;
+}
+.cajaazul{
+    background-color: blue;
+    color: white;
+}
+.cajamorado{
+    background-color: purple;
+    color: white;
+}
+.cajavioletta{
+    background-color: violet;
+    color: white;
+}
+.cajarosa{
+    background-color: pink;
+    color: white;
+}
+.cajacafe{
+    background-color: brown;
+    color: white;
+}
+.cajadorada{
+    background-color: goldenrod;
+    color: white;
+}
+.cajaplata{
+    background-color: silver;
+    color: white;
+}
+.box{
+    padding: 1em;
+}
